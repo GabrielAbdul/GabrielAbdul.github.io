@@ -1,0 +1,11 @@
+--2022-04-21 15:11:49--  https://images.contentstack.io/v3/assets/bltb428ce5d46f8efd8/bltc1cd16d484367ad6/6058dd2a0f19b910ce5f9fd5/Group_1_(1).png?crop=100p,100p,x0,y0
+Resolving images.contentstack.io (images.contentstack.io)... 151.101.50.217
+Connecting to images.contentstack.io (images.contentstack.io)|151.101.50.217|:443... connected.
+HTTP request sent, awaiting response... 200 OK
+Length: 8752 (8.5K) [image/png]
+Saving to: ‘Group_1_(1).png?crop=100p,100p,x0,y0’
+
+Group_1_(1).png?crop=100p,100p,x0,y0                          0%[                                                                                                                                         ]       0  --.-KB/s               Group_1_(1).png?crop=100p,100p,x0,y0                        100%[========================================================================================================================================>]   8.55K  --.-KB/s    in 0s      
+
+2022-04-21 15:11:49 (27.6 MB/s) - ‘Group_1_(1).png?crop=100p,100p,x0,y0’ saved [8752/8752]
+
